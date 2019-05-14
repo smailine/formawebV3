@@ -4,7 +4,7 @@ namespace App\Modeles;
 
 use Illuminate\Database\Eloquent\Model;
 
-class ConferenceDAO extends Model
+class FormationDAO extends Model
 {
     //
 }
